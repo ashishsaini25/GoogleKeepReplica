@@ -1,0 +1,58 @@
+.parentNoteThree{
+    height: 20vh;
+    width: 19vw;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 1px 1px gray;
+    margin-bottom: 5px;
+}
+.boxContent{
+    height: 100px;
+    width: 240px;
+    position: relative;
+    left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+.noteBoxThree{
+    height: 100px;
+    width: 240px;
+    display: flex;
+    /* border: 1px solid black; */
+}
+.titleDescreptionThree{
+    height: 80px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+.textHerethree{
+    width: 200px;
+    border: none;
+    height: 2.8rem;
+    /* border: 1px solid white; */
+    /* border-radius: 0 5px 5px 0; */
+    outline: none;
+    color: black;
+}
+.pinIconThree{
+    height: 100px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+}
+.iconContentThree{
+    width: 240px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.iconThree{
+    width: 240px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

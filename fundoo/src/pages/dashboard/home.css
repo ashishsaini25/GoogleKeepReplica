@@ -1,0 +1,14 @@
+.notesContainer{
+    width: 80vw;
+    height:80vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+   margin: auto;
+   position: relative;
+   left: 60px;
+   top:20px;
+
+   
+}

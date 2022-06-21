@@ -1,0 +1,34 @@
+.parent-noteone {
+    margin: auto;
+  
+    height: 10vh;
+    width: 45vw;
+    display: flex;
+    align-items: center;
+
+    border-radius: 0.5rem;
+}
+
+.note-childone {
+    display: flex;
+    width: 100%;
+    margin-left: 1rem;
+    align-items: center;
+}
+
+.noteone-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2.5rem;
+    margin-left: 4rem;
+}
+.textHere{
+    width: 25vw;
+    border: none;
+    height: 9vh;
+    border: 1px solid white;
+    border-radius: 0 5px 5px 0;
+    outline: none;
+    color: black;
+}

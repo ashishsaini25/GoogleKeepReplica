@@ -1,0 +1,112 @@
+ .Box{
+    border: 2px solid gray;
+    display: flex;
+   margin: auto;
+    height: 95vh;
+    width:55vw;
+    margin-top: 1.5rem;
+}
+.firstChild{
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    padding-top: 2rem ;
+    align-items: flex-start;
+    height: 100%;
+    width:100%
+    
+}
+.secondChild{
+
+    display: flex;
+    height: 80%;
+    margin-left: 20px;
+    flex-direction: row;
+}
+.tp-child{
+    display: flex;
+    height: 40px;
+
+
+
+
+}
+.tp2-child{
+    display: flex;
+    height: 40px;
+    margin-bottom: 2rem;
+    font-size: 14px;
+}
+
+.f-child{
+    display: flex;
+    height: 70px;
+    
+}
+.s-child{
+    
+    display: flex;
+    align-items: flex-start;
+    margin-top: 0px;
+    height: 50px
+}
+.fn-child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1.2rem;
+
+}
+.em-child{
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    margin-bottom: 30px;
+}
+.ch-child{
+    display: flex;
+    margin-left: 7%;
+    margin-bottom: 50px;
+    justify-content:last baseline;
+}
+.bt-child{
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+    height: 50px;
+}
+.image1{
+    display: flex;
+    width: 275px;
+    height: 300px;
+    align-items: center;
+    margin: auto;
+} 
+
+
+/* .container{
+    border: 2px solid black;
+    display: flex;
+    margin: auto;
+    height: 95vh;
+    width: 50vw;
+}
+.firstcontainer{
+    border: 2px solid black ;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    padding-top: 2rem;
+}
+.firstchild{
+    border: 2px solid red;
+    height: 20%;
+    display: flex;
+    flex-direction: coloumn;
+    align-items:flex-start;
+
+    
+} */

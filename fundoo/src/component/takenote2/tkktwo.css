@@ -1,0 +1,56 @@
+.parent-notetwo {
+    margin: auto;
+    height: 27vh;
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+   
+    border-radius: 0.5rem;
+}
+
+.title-name {
+    display: flex;
+    width: 90%;
+    margin-left: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.description {
+    display: flex;
+    width: 90%;
+    margin-left: 1rem;
+    align-items: center;
+}
+
+/* .icon {
+    display: flex;
+    width: 70%;
+} */
+
+.diff-icon {
+    display: flex;
+    width: 60%;
+    margin-left: 1rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.close{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
